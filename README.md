@@ -245,6 +245,7 @@ zcrmsdk
        getRelatedLists
      ACTIONS
        convert
+       addTags
      USERS
        get
      ATTACHMENTS
